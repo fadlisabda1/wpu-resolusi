@@ -3,10 +3,11 @@ RENCANA KONTEN WPU
 -JAVASCRIPT
   *ES6
   *FRAMEWORK JAVASCRIPT
-   -angular
    -react
+   -vue
 -STRUKTUR DATA DASAR
 -PHP FRAMEWORKS
  -laravel
 -INTERVIEW
 -VLOG
+-python
