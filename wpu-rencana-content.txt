@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
   *FRAMEWORK JAVASCRIPT
    -react
    -vue
+   -angular
 -STRUKTUR DATA DASAR
 -PHP FRAMEWORKS
  -laravel
